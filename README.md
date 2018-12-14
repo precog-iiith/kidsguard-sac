@@ -5,7 +5,7 @@ This repository contains the code for the implementation of the paper titled Kid
 ### Dataset
 The  dataset used for the paper can be from here.
 
-### Directory Structure
+### Experiment Steps
 + Start by downloading the dataset.
 + Download the YouTube videos using the video IDs mentioned in the dataset
 + Once downloaded, use the notebooks in directory `/extract-video` to obtain video frames and then their VGG16 features.
