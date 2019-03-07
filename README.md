@@ -3,7 +3,7 @@
 This repository contains the code for the implementation of the paper titled KidsGuard: Fine-Grained Approach for Child Unsafe Video Representation and Detection by Singh et al. published at [ACM SAC 2019](https://www.sigapp.org/sac/sac2019/).
 
 ### Dataset
-The  dataset used for the paper can be from here.
+The  dataset used for the paper can be from here: http://precog.iiitd.edu.in/requester.php?dataset=kidsguard2019
 
 ### Experiment Steps
 + Start by downloading the dataset.
@@ -23,4 +23,16 @@ $ conda env create -f environment.yml
 ### Citation
 If you found this code or our paper useful, please consider citing the following paper:
 ```
+@inproceedings{singh2019kidsguard,
+    author = {
+        Singh, Shubham and 
+        Kaushal, Rishabh and 
+        Buduru, Arun Balaji and 
+        Kumaraguru, Ponnurangam
+    },
+    title = {{KidsGUARD: Fine Grained Approach for Child Unsafe Video Representation and Detection}},
+    booktitle={Proceedings of the 34th Annual {ACM} Symposium on Applied Computing},
+    location = {Limassol, Cyprus},
+    year={2019}
+}
 ```
