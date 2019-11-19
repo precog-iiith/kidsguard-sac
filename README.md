@@ -8,8 +8,8 @@ The  dataset used for the paper can be from here: http://precog.iiitd.edu.in/req
 ### Experiment Steps
 + Start by downloading the dataset.
 + Download the YouTube videos using the video IDs mentioned in the dataset
-+ Once downloaded, use the notebooks in directory `/extract-video` to obtain video frames and then their VGG16 features.
-+ Use the notebooks in the `/process` directory to parse annotations from the downloaded dataset, and aggregate clips and features for experiments.
++ Once downloaded, use the notebooks in directory `/extract_video` to obtain video frames and then their VGG16 features.
++ Use the notebooks in the `/process_utils` directory to parse annotations from the downloaded dataset, and aggregate clips and features for experiments.
 + The notebooks in `/train` directory contain the notebooks to train the autoencoder and the classifier.
 + `/metrics` contains the notebook to plot the training and testing results.
 
