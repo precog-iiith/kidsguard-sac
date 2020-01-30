@@ -1,6 +1,6 @@
 ## KidsGuard: Fine-Grained Approach for Child Unsafe Video Representation and Detection
 
-This repository contains the code for the implementation of the paper titled KidsGuard: Fine-Grained Approach for Child Unsafe Video Representation and Detection by Singh et al. published at [ACM SAC 2019](https://www.sigapp.org/sac/sac2019/).
+This repository contains the code for the implementation of the paper titled [KidsGuard: Fine-Grained Approach for Child Unsafe Video Representation and Detection](http://precog.iiitd.edu.in/pubs/KidsGuard-cam-ready.pdf) by Singh et al. published at [ACM SAC 2019](https://www.sigapp.org/sac/sac2019/).
 
 ### Dataset
 The  dataset used for the paper can be from here: http://precog.iiitd.edu.in/requester.php?dataset=kidsguard2019
